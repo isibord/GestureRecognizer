@@ -12,4 +12,4 @@ The gestures were recorded with the [A2: Gesture Logger](https://github.com/jonf
 ## Getting Started
 1. The first thing you need to do is to ensure the logPath variable to points to the directory with your gesture logs. Scroll down to the "Load the Data" cell
 2. Then, you should be able to select Cell->Run All in the File Menu above and the data should be read in.
-3. Note that the Dynamic Time Warping (DTW) API can be slow (up to 15 minutes), the code will print progress updates. 
+3. Note that the Dynamic Time Warping (DTW) API can be slow (up to 25 minutes), the code will print progress updates. 
